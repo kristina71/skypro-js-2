@@ -2,6 +2,7 @@
 /* stylelint-disable property-no-unknown */
 @font-face {
   /* stylelint-disable-next-line font-family-name-quotes */
+<<<<<<< HEAD
   font-family: 'StratosSkyeng';
     src: url('./Stratos-Regular.eot');
     src: url('./Stratos-Regular.eot?#iefix') format('embedded-opentype'),
@@ -12,3 +13,15 @@
     fontweight: normal;
     font-style: normal;
 };
+=======
+  font-family: "StratosSkyeng";
+  src: url("./Stratos-Regular.eot");
+  src: url("./Stratos-Regular.eot?#iefix") format("embedded-opentype"),
+    url("./Stratos-Regular.svg#Stratos-Regular") format("svg"),
+    url("./Stratos-Regular.ttf") format("truetype"),
+    url("./Stratos-Regular.woff") format("woff"),
+    url("./Stratos-Regular.woff2") format("woff2");
+  fontweight: normal;
+  font-style: normal;
+} ;
+>>>>>>> Homework 2(layouts)
